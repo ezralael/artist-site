@@ -1,0 +1,7 @@
+:root{color-scheme:light dark;}*{box-sizing:border-box;}
+body{margin:0;font-family:system-ui,Arial,sans-serif;line-height:1.5;}
+.wrap{max-width:1000px;margin:0 auto;padding:24px;}
+.section{margin:56px 0}.title{font-size:3rem;margin:.5rem 0}.links{display:flex;gap:10px}
+.pill{padding:8px 12px;border:1px solid currentColor;border-radius:999px;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+.card{display:flex;flex-direction:column;gap:6px}.caption{opacity:.8}.hero-img{width:100%;border-radius:8px}
